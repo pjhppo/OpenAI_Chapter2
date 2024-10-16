@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "OpenAI_Chapter1.sln"
+    "dotnet.defaultSolution": "OpenAI_Chapter2.sln"
 }
